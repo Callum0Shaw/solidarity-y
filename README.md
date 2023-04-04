@@ -1,4 +1,4 @@
-# solidarity-y
+# Solidarity Y
 
 ## A re-build of the wordpress site: https://solidaritynetworky.com/
 
